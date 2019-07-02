@@ -1,3 +1,4 @@
-struct dnaViews {
-    var text = "Hello, World!"
+public struct dnaViews {
+    public var text = "Hello, World!"
+    public init() {}
 }
